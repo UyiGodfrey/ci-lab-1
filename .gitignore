@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Test cache
+.pytest_cache/
+
+
+# Java build files
+*.class
+*.jar
+*.war
+
+# Maven/Gradle
+target/
+build/
